@@ -1,9 +1,7 @@
 from pptx import Presentation
 from pptx.util import Inches
-
 # Yeni bir sunu oluşturma
 prs = Presentation()
-
 # Dosya yolu
 img_folder_path = "Images/"
 
